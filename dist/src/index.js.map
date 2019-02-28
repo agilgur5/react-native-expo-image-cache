@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../src/index.js"],"names":[],"mappings":"kWACA,sDACA","sourcesContent":["// @flow\nexport {default as Image} from \"./Image\";\nexport {default as CacheManager} from \"./CacheManager\";\n"],"file":"index.js"}
